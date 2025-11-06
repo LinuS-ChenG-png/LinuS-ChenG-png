@@ -11,7 +11,7 @@ I am eagerly awaiting starting matriculation at the National University of Singa
 # 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linus-cheng-ming-hong/)
 
-# 🤓 Fun fact: 
+# 🐧 Fun fact: 
 When I started, I was most excited to learn LinuxOS. Hence, it is one of the first things I learnt in computing. 
 
 <!--
