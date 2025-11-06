@@ -5,7 +5,7 @@ I am eagerly awaiting starting matriculation at the National University of Singa
 
 # 🤸‍♀️ What I'm currently up to
 - Building at least 1 website application that can actually make a positive impact on someone's life 💪
-- Exploring the details and workings of all the applications of AI by looking at Nvidia 
+- Exploring the details and workings of all the applications of AI by looking into Nvidia 👀
 - Understanding quantum programming language and how to build, edit and invoke a quantum circuit through an open-source SDK (Qiskit) 🤔
 
 # 🤝 Connect with me:
