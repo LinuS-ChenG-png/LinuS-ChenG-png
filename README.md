@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Linus</h1> 
+<h1 align="center">Hi 👋 I'm Linus Cheng</h1> 
 
 # 🤖 💻 About Me:
 I am eagerly awaiting starting matriculation at the National University of Singapore, where I will be double-majoring in Mechanical Engineering and Computing. I am interested in exploring the rapidly advancing technologies like artificial intelligence, machine learning and quantum computing! 
