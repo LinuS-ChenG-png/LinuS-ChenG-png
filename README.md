@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Linus 👋</h1> 
 
 # 🤖 💻 About Me:
-University begins in August 2026, where I will be studying Mechanical Engineering at the National University of Singapore. Excited about being a student during this time, when technologies are advancing more quickly than ever! 
+Entering my freshman year at the National University of Singapore in August 2026, where I will be studying Mechanical Engineering. Excited about being a student during this time, when we're seeing new advancements in technology every day! 
 
 # What I am currently up to:
 - Entering my first year of university, motivated to learn and meet new people!
