@@ -4,7 +4,7 @@
 Entering my freshman year at the National University of Singapore in August 2026, where I will be studying Mechanical Engineering. Excited about being a student during this time, when we're seeing new advancements in technology every day! 
 
 # What I am currently up to:
-- Entering my first year of university, motivated to learn and meet new people!
+- Motivated to learn and meet new people!
 - Keeping up with NVIDIA GTC Conferences 💻 cause Jensen Huang is my idol
 
 # 🤝 Connect with me:
